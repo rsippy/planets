@@ -2,4 +2,8 @@ Cold and dry, but everything is my favorite color.
 The two moons may be a problem for Wolfman. 
 But the Mummy will appreciate the lack of humidity. 
 We are on Planet GitHub.
+<<<<<<< HEAD
 
+=======
+This line was edited by They-Call-Me-Mr-Jacob
+>>>>>>> 14c0642d3f6ee02a2724c285dae241d398fae14d
